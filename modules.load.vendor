@@ -161,7 +161,6 @@ dio8016-regulator.ko
 atf_logger.ko
 mtk-dvfsrc-start.ko
 bt_drv_6878.ko
-bluetooth.ko
 c2k_usb.ko
 c2k_usb_f_via_atc.ko
 c2k_usb_f_via_ets.ko
